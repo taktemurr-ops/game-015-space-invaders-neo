@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_015_space_invaders_neo/core/arcade.dart';
-import 'package:game_015_space_invaders_neo/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_015_space_invaders_neo/game/invaders_engine.dart';
 import 'package:game_015_space_invaders_neo/game/rules.dart';
 
